@@ -23,7 +23,7 @@ This project demonstrates a basic client-server application using Python's `sock
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Jonahida/python-socket-echo-server-client.git
+git clone https://github.com/Jonahida/python-socket-communication.git
 cd python-socket-communication
 ```
 
